@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    background-image: url('img/Sniper.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.header{
+    display: flex;
+}
+img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin: 15px 0 0 100px;
+}
+
+.title{
+    color: #fff;
+    padding: 0 0 0 15px;
+}
+
+.ul-list{
+    display: flex;
+    list-style: none;
+    color: blue;
+    float: right;
+    margin: -32px 24px 0px 0px;
+}
+
+li{
+    padding: 0 10px;
+    color: white;
+}
+
+.desc{
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+button{
+    color: whitesmoke;
+    background-color: lightgreen;
+    border: none;
+    border-radius: 3px;
+    height: 50px;
+    width: 150px;
+    margin: 380px 0px 0px 45rem;
+
+}
+
+button:hover{
+    color: lightgreen;
+    background-color: rgba(255, 0, 0, 0);
+}

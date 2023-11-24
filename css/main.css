@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.banner2{
+    background-image: url('coffee.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+.list4{
+    display: flex;
+    list-style: none;
+    background: #4440;
+    margin: -25px 0px 0px 25px; 
+}
+
+li{
+    padding: 10px;
+    color: whitesmoke;
+}
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.list2{
+    margin: 8px 3px 1px 8px;
+}
+
+.explain{
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+    color: #3f1d1d;
+    margin: 170px 600px 0 0;
+}
+
+.p1{
+    text-align: center;
+    font-size: 15px;
+    margin: 10px 600px 0 0;
+}
+
+.p2{
+    text-align: center;
+    font-size: 15px;
+    margin: 10px 600px 0 0;
+}
+
+.p3{
+    text-align: center;
+    font-size: 15px;
+    margin: 10px 600px 0 0;
+}
+
+img{
+    height: 20px;
+    width: 15px;
+    border-radius: 30%;
+    margin: 8px 0 0 0px;
+}
+
+.div3{
+    display: flex;
+}
+.button1{
+   color: whitesmoke; 
+   background-color: red;
+   border: 2px;
+   border-radius: 6px;
+   height: 25px;
+   width: 70px;
+}
+
+.button2{
+    color: whitesmoke; 
+   background-color: red;
+   border: 2px;
+   border-radius: 6px;
+   height: 25px;
+   width: 70px;
+
+}
+
+.button3{
+    color: whitesmoke;
+    background-color: lightcoral;
+    border: none;
+    border-radius: 7px;
+    height: 40px;
+    width: 100px;
+    margin: 150px 600px;
+
+}
+
+button:hover{
+    color: lightgreen;
+    background-color: rgba(200, 0, 0, 0)
+}
+
+
+
+
+
+
+

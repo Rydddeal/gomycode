@@ -1,0 +1,334 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-banner{
+    background-image: url('bg_1.jpg');
+    height: 100vh;
+}
+
+.banner1{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    color: rgba(3, 148, 56, 0.992);
+}
+
+.banner2{
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+}
+.banner2 ul{
+    display: flex;
+}
+
+.banner2 li{
+    list-style: none;
+    padding: 0 20px;
+}
+
+.banner2 ul button{
+    border: none;
+    background-color: #c8a97e !important;
+    outline: none;
+    border-radius: 8px;
+    color: #fff;
+    height: 45px;
+    width: 100px;
+    margin: -10px 0 0 0;
+
+}
+
+.imgs{
+    width: 80px;
+    height: 80px;
+    margin: 150px 0 0 70px;
+}
+
+.main-header{
+    text-align: center;
+    margin: 120px 0 0 0;
+    color: rgb(197, 56, 56);
+    font-size: 200px;
+}
+
+.col-lg-3 h5, h6{
+    color: crimson;
+}
+
+.chef{
+    width: 300px;
+    height: 450px;
+    margin: 50px 0 0 0;
+
+}
+
+.chef1{
+    width: 300px;
+    height: 450px;
+    margin: 80px 0 0 -40px;
+}
+
+.side-text{
+    margin: 150px 0 0 0 !important;
+}
+
+.side-text h3{
+    font-weight: 700;
+    font-size: 40px;
+    font-display: bold;
+}
+
+.side-text h1{
+    font-weight: 600px;
+    font-size: 42px;
+    font-display: bold;
+}
+
+.side-text h5{
+    font-display: light;
+    color: rgb(145, 140, 140)
+}
+
+.text h3{
+    font-weight: 700;
+    font-size: 50px;
+    color: #c8a97e;
+    margin: 100px 0 0 0;
+}
+
+.text p{
+    font-size: 15px;
+    font-weight: 500;
+    color: #8f8d8c;
+}
+
+.lock h3{
+    font-weight: 700;
+    font-size: 50px;
+    color: #c8a97e;
+    margin: 100px 0 0 0;
+}
+
+.lock p{
+    font-size: 15px;
+    font-weight: 500;
+    color: #8f8d8c;
+}
+
+.live h3{
+    font-weight: 700;
+    font-size: 50px;
+    color: #c8a97e;
+    margin: 100px 0 0 0;
+}
+
+.live p{
+    font-size: 15px;
+    font-weight: 500;
+    color: #8f8d8c;
+}
+.cast h3{
+    font-weight: 700;
+    font-size: 50px;
+    color: #c8a97e;
+    margin: 100px 0 0 0;
+}
+
+.cast p{
+    font-size: 15px;
+    font-weight: 500;
+    color: #8f8d8c;
+    margin: 0 0 0 5px;
+}
+
+.key h4{
+    line-height: 35px;
+    font-size: 20px !important;
+    color: #757575;
+    margin: 100px 0 0 0;
+}
+
+.service{
+    text-align: center;
+    font-size: 65px;
+    font-weight: 600;
+    font-style: italic;
+    color: #c8a97e;
+    margin: 150px 0 0 10px;
+}
+
+.catering{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 900;
+    font-style: bold;
+    margin: -35px 0 0 10px;
+}
+
+
+.vol{
+    margin: 150px 0 0 0;
+}
+
+.meals-img{
+    width: 80px;
+    border-radius: 50%;
+    margin: 0 0 0 150px;
+}
+
+.vol h3{
+    text-align: center;
+    margin: 30px 0 0 0;
+}
+
+.vol p{
+    text-align: center;
+    margin: 10px 0 0 0;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.cat-services{
+    background-color: #fafafa;
+    height: 700px;
+    padding: 5px 0;
+    margin: 150px 0 0 0;
+}
+
+.special-banner h1{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 500;
+    font-style: oblique;
+    margin: 80px 0 0 0;
+    color: #c8a97e;
+}
+
+.special-banner h2{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 800;
+    margin: -35px 0 0 0;
+}
+
+.food-img{
+    width: 280px;
+    padding: 0 0;
+}
+
+.grilled
+{
+    display: flex;
+}
+
+.grilled h5{
+    font-size: 22px;
+    font-weight: 900px;
+    font-display: block;
+    font-style: italic;
+    margin: 50px 0 0 0;
+    padding: 0 0 0 20px;
+    color: rgb(12, 175, 175);
+}
+
+.rice {
+    margin: 30px 20px;
+    font-size: 20px;
+    color: black;
+    line-height: 1.5;
+}
+
+.cut{
+    border: none;
+    background-color: #c8a97e !important;
+    outline: none;
+    border-radius: 0px;
+    color: #fff;
+    height: 30px;
+    width: 80px;
+    margin: -100px 20px;
+}
+
+.mast{
+    /* background-color: #fafafa; */
+    /* height: 131vh; */
+    margin: 40px 0 0 0;
+}
+.special-banner {
+    margin-bottom: 70px;
+}
+
+.chefff h2{
+    text-align: center;
+    font-size: 80px;
+    font-weight: 200;
+    font-style: italic;
+    margin: 150px 0 0 0;
+    color: #c8a97e;
+}
+
+.chefff h4{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+    margin: -50px 0 0 0;
+}
+
+.chef-img{
+    width: 250px;
+    height: 320px;
+    margin: 50px 40px 0 0;
+    border-radius: 2%;
+}
+
+.masterr h4{
+    font-weight: 650;
+    margin: 20px 0 0 0;
+}
+
+.masterr h6{
+    margin: 5px 0 0 0;
+    color: #bbbbbb;
+    font-size: 15px;
+}
+
+.icons-img{
+    width: 18px;
+    margin: 10px 0 0 0;
+}
+
+.tomato{
+    background-image: url('bg_3.jpg');
+    margin: 150px 0 0 0;
+    width: 100%;
+    background-color: red;
+    padding: 50px;
+}
+.white-form{
+    background-color: whitesmoke;
+    width: 47%;
+    height: 40;
+    margin: 40px 40px;
+    padding: 30px;
+}
+.table h3{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 70px;
+    font-style: italic;
+    color: red;
+    margin: -60px 0;
+}
+.table h4{
+    text-align: center;
+    margin: 20px 0;
+    font-size: 50px;
+    font-weight: 100px;
+    font-display: bold;
+}
+.phone1 {
+    justify-content: space-around;
+}

@@ -1,0 +1,19 @@
+body{
+    margin: 0 !important;
+    padding: 0;
+}
+
+.nav{
+    height: 80px;
+    background-color: whitesmoke;
+}
+
+.list{
+    display: flex;
+    margin: 0 10px 0 100px;
+}
+.list li{
+    list-style: none;
+    padding: 0 10px;
+}
+
